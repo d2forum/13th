@@ -73,12 +73,12 @@
 
 除了大会的主题演讲之外，我们在下午开始前，邀请了来自阿里内部的996乐队给大家带来了精彩的表演，我们一起通过现场的几张照片来看看他们的风采：
 
-![image.png](https://cdn.nlark.com/yuque/0/2019/png/168578/1547530205751-19707fc1-9cd5-489c-b263-452d71fb5067.png#align=left&display=inline&height=631&name=image.png&originHeight=1262&originWidth=1948&size=2959463&width=974)
+![image.png](https://cdn.nlark.com/yuque/0/2019/png/168578/1547530205751-19707fc1-9cd5-489c-b263-452d71fb5067.png)
 
 
-![image.png](https://cdn.nlark.com/yuque/0/2019/png/168578/1547530242909-6bfd0b30-1da6-4086-ad09-9c9fb907bcf3.png#align=left&display=inline&height=591&name=image.png&originHeight=1182&originWidth=1702&size=1940632&width=851)
+![image.png](https://cdn.nlark.com/yuque/0/2019/png/168578/1547530242909-6bfd0b30-1da6-4086-ad09-9c9fb907bcf3.png)
 
-![image.png](https://cdn.nlark.com/yuque/0/2019/png/168578/1547530264893-543b3f36-29a8-4035-8991-368208b21157.png#align=left&display=inline&height=537&name=image.png&originHeight=1074&originWidth=1548&size=2489033&width=774)
+![image.png](https://cdn.nlark.com/yuque/0/2019/png/168578/1547530264893-543b3f36-29a8-4035-8991-368208b21157.png)
 
 
 精彩还没有结束，大会白天的议程完全结束以后，D2前端技术论坛夜场又开始啦，夜场大家聚在一起，喝着饮料和啤酒，一起听Winter现场主持采访Hax、勾三股四、大漠、甄子和小胡子哥，听他们讲讲他们在前端职业生涯的故事和前端未来的发展趋势。
