@@ -83,4 +83,4 @@
 
 精彩还没有结束，大会白天的议程完全结束以后，D2前端技术论坛夜场又开始啦，夜场大家聚在一起，喝着饮料和啤酒，一起听Winter现场主持采访Hax、勾三股四、大漠、甄子和小胡子哥，听他们讲讲他们在前端职业生涯的故事和前端未来的发展趋势。
 
-![image.png](https://cdn.nlark.com/yuque/0/2019/png/168578/1547530489686-956b8050-58b4-4650-a7ce-e9eff9ce0e90.png#align=left&display=inline&height=581&name=image.png&originHeight=1162&originWidth=1600&size=1466421&width=800)
+![image.png](https://cdn.nlark.com/yuque/0/2019/png/168578/1547530489686-956b8050-58b4-4650-a7ce-e9eff9ce0e90.png)
