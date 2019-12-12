@@ -6,6 +6,8 @@
 
 大会网站：[d2forum.alibaba-inc.com](http://d2forum.alibaba-inc.com/13#/index?_k=7lqawu)
 
+大会开场视频: [第十三届D2前端技术论坛开场视频](https://v.youku.com/v_show/id_XNDQ2Njc1NjIyMA==.html?spm=a2h3j.8428770.3416059.1)
+
 ### 开场致辞
 
 本次大会首先由阿里经济体前端委员会委员长圆心致辞：
