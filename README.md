@@ -73,6 +73,20 @@
 | [React Suspense--闫畅.pdf](https://github.com/d2forum/13th/blob/master/PPT/%E9%97%AB%E7%95%85%20-%20React%20Suspense.pdf) |
 | Hax - [Will "class fields" be the new "bad part" of JavaScript?](https://johnhax.net/2019/class-fields/slide) |
 
+### 部分演讲视频
+
+| 演讲视频 |
+| --- |
+|[从 spritejs 谈完整的 UI 系统设计--Winter](https://www.yuque.com/d2forum/13/lqknf7)|
+|[Google Flutter工程师告诉你：Flutter 为啥快？--李宇骞](https://www.yuque.com/d2forum/13/mbvy4p)|
+|[如何通过逆向工程 V8 从故障的进程中复活--张秋怡](https://www.yuque.com/d2forum/13/rd093b)|
+|[设计稿智能生成代码平台--甄子](https://www.yuque.com/d2forum/13/reix9h)|
+|[GraphQL rewrite and performance improvement--王啟安](https://www.yuque.com/d2forum/13/iv13kc)|
+|[Migration to React Suspense--闫畅](https://www.yuque.com/d2forum/13/pt0qii)|
+
+
+### 精彩瞬间
+
 除了大会的主题演讲之外，我们在下午开始前，邀请了来自阿里内部的996乐队给大家带来了精彩的表演，我们一起通过现场的几张照片来看看他们的风采：
 
 ![image.png](https://cdn.nlark.com/yuque/0/2019/png/168578/1547530205751-19707fc1-9cd5-489c-b263-452d71fb5067.png)
